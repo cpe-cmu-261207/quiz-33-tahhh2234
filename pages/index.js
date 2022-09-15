@@ -13,7 +13,7 @@ export default function Home() {
         style={{ maxWidth: "700px", backgroundColor: "#242526" }}
         className="mx-auto p-3 rounded rounded-3 shadow-sm"
       >
-        <PostOwner></PostOwner>
+        <PostOwner>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</PostOwner>
         <Comment></Comment>
       </div>
     </div>

@@ -15,9 +15,7 @@ export default function PostOwner(props) {
           Thadpong Sermsook 640610636
         </span>
       </div>
-      <span className="text-white">
-        Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207
-      </span>
+      <span className="text-white">{props.children}</span>
       <div className="d-flex align-items-center gap-1">
         <img src="/like.svg" width={20}></img>
         <span style={{ color: "#B0B3B8" }}>100 คน</span>
