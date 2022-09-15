@@ -14,7 +14,7 @@ export default function Home() {
         className="mx-auto p-3 rounded rounded-3 shadow-sm"
       >
         <PostOwner>Quiz ง่ายจังเลยครับ ขอยาก ๆ กว่านี้ได้ไหม #261207</PostOwner>
-        <Comment></Comment>
+        <Comment />
       </div>
     </div>
   );
